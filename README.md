@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sto studiando all'ITS Rizzoli Machine learning e IA<br>🌱 Sto imparando le basi delle nove tecnologie come ML, IA, e DL
+🔭 Sto studiando all'ITS Rizzoli Machine learning e IA<br>🌱 Sto imparando le basi delle nuove tecnologie come ML, IA, e DL
 
 
 ## 🌐 Socials:
